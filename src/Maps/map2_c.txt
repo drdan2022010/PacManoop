@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X___O________X________O___X
+X_XXXX_XXXXX_X_XXXXX_XXXX_X
+X_XXXX_XXXXX_X_XXXXX_XXXX_X
+X_XXXX_XXXXX_X_XXXXX_XXXX_X
+XP________________________X
+X_XXXX_XX_XXXXXXX_XX_XXXX_X
+X_XXXX_XX_XXXXXXX_XX_XXXX_X
+X______XX_________XX______X
+XXXXX__XX_===_===_XX__XXXXX
+====X     XYYYYYX     X====
+====X     X===2=X     X====
+====X     X2=B==X     X====
+XXXXX     XXYYYXX     XXXXX
+X====_________________====X    
+XXXXX_X    XXXX     X_XXXXX
+====X_X_=__XXXX__=__X_X====
+XXXXX_X3___XXXX____3X_XXXXX
+X_________________________X
+X___XXXX           XXXX___X
+X=====_X   XXX     X_=====X
+X====1_X    X      X_=====X
+X=====_X  O X   O  X_=====X
+X_________________________X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX

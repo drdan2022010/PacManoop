@@ -19,8 +19,13 @@ public class PacBoard extends JPanel{
     Image foodImage;
     Image[] pfoodImage;
 
+    boolean pause = false;
+
     ImageIcon goImage;
+    ImageIcon goImageef;
     ImageIcon vicImage;
+    ImageIcon vicImageef;
+
 
     Pacman pacman;
     ArrayList<Food> foods;
@@ -133,6 +138,8 @@ public class PacBoard extends JPanel{
             foodImage = ImageIO.read(this.getClass().getResource("resources/images/food.png"));
             goImage = new ImageIcon("resources/images/gameover3.png");
             vicImage = new ImageIcon("resources/images/victory.png");
+            goImageef = new ImageIcon("resources/images/gameover.gif");
+            vicImageef = new ImageIcon("resources/images/victoryef.gif");
         }catch(Exception e){}
 
 
@@ -202,7 +209,7 @@ public class PacBoard extends JPanel{
             SoundPlayer.play("pacman_eat.wav");
             foods.remove(foodToEat);
             score++;
-            scoreboard.setText("    Score : "+score+"     Press A to start game"+"      Press S to stop game");
+            scoreboard.setText("    Score : "+score+"     Press S to pause / play");
             if (foods.size() == 0) {
                 siren.stop();
                 pac6.stop();
@@ -364,19 +371,20 @@ public class PacBoard extends JPanel{
             g.setColor(Color.yellow);
             Integer s = scoreToAdd*100;
             g.drawString(s.toString(), pacman.pixelPosition.x + 13, pacman.pixelPosition.y + 50);
-            //drawScore = false;
             score += s;
-            scoreboard.setText("    Score : "+score+"     Press A to start game"+"      Press S to stop game");
+            scoreboard.setText("    Score : "+score+"     Press S to pause / play");
             clearScore = true;
 
         }
 
         if(isGameOver){
-            goImage.paintIcon(this,g,this.getSize().width/2-280,this.getSize().height/2-200);
+            goImage.paintIcon(this,g,this.getSize().width/2-190,this.getSize().height/2-200);
+            goImageef.paintIcon(this,g,this.getSize().width/2-208,this.getSize().height/2-270);
         }
 
         if(isWin){
-            vicImage.paintIcon(this,g,this.getSize().width/2-315,this.getSize().height/2-200);
+            vicImage.paintIcon(this,g,this.getSize().width/2-300,this.getSize().height/2-200);
+            vicImageef.paintIcon(this,g,this.getSize().width/2-280,this.getSize().height/2-200);
 
         }
 
@@ -399,16 +407,18 @@ public class PacBoard extends JPanel{
             else{
                 restart();
             }
-        }else if(ae.getID()==Messeges.STOP){
+        }else if(ae.getID()==Messeges.STOP && !pause){
             pacman.moveTimer.stop();
             for (Ghost g : ghosts) {
                 g.moveTimer.stop();
             }
-        }else if(ae.getID()==Messeges.START){
+            pause = true;
+        }else if(ae.getID()==Messeges.STOP && pause){
             pacman.moveTimer.start();
             for (Ghost g : ghosts) {
                 g.moveTimer.start();
             }
+            pause = false;
         }else {
             super.processEvent(ae);
         }

@@ -30,7 +30,7 @@
 ## Introduction
 
 <div style="text-align:justify">
-This is the Team Five Pacman oop final project, Sơ lược về game: Pacman là 1 tựa game nổi tiếng trên thế giới, also we have a mini game project call whack a mole that can help you xả stress 
+This is the Team Five Pacman oop final project, Sơ lược về game: Pacman is one of the most popular games in the world, also we have a mini-game project called whack-a-mole that can help you to relax.
 </div>
 
 ### Team Members
@@ -90,12 +90,8 @@ Players will move the pacman to eat all dot.
 
 ## Experience
 <div style="text-align:justify">
-Khi mà team em bắt tay làm game này, tụi em không biết mình nên bắt đầu từ đâu. Nhờ thầy hỗ trợ trong đợt giới thiệu 
-project thì tụi em đã biết cách chia task, làm việc nhóm như thế nào cho hiệu quả. Trong lúc thực hiện project thì có
-1 vấn đề lớn xảy ra là tụi em không biết tìm cách tạo 1 cái map mới song song với map đầu tiên mà không bị lỗi. Khi 
-mà team em đọc lại slide của thầy cùng với record (phần overlload) thì tụi em đã tìm ra được giải pháp cho vấn đề đó
-và đã thành công giải quyết được. 
-Cũng nhờ project này mà team em có thể học được cách sử dụng Github (vì nhóm em không có kinh nghiệm sử dụng Github.
+When my team started making this game, we did not how to begin from. During the project, there was a big problem because we did not know how to create a new map parallel to the first map without error. When my team re-read your slide with the record (overload section), we found a solution to solve the problem and succeeded.
+Thanks to this project, my team was able to learn how to use Github (because my team has no experience using Github).
 </div>
 
 <br />

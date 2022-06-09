@@ -45,7 +45,7 @@ This is the Team Five Pacman oop final project. Pacman is one of the most popula
 
 - Language: [JAVA](https://www.java.com/en/)
 - Framework: [IntelliJ](https://www.jetbrains.com/idea/)
-- Library: [JavaSwing](https://en.wikipedia.org/wiki/Swing_(Java))
+- Library: [JavaSwing](https://en.wikipedia.org/wiki/Swing_(Java)) and [JavaAWS](https://en.wikipedia.org/wiki/Abstract_Window_Toolkit)
 
 ### How to play:
 <div style="text-align:justify">

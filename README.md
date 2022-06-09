@@ -26,7 +26,7 @@
 ## Introduction
 
 <div style="text-align:justify">
-This is the Team Five Pacman oop final project, Sơ lược về game: Pacman is one of the most popular games in the world, also we have a mini-game project called whack-a-mole that can help you to relax.
+This is the Team Five Pacman oop final project. Pacman is one of the most popular games in the world. Also we have a mini-game project called whack-a-mole that can help you to relax.
 </div>
 
 ### Team Members

@@ -7,7 +7,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#introduction">Introduction</a>/li> 
+    <li><a href="#introduction">Introduction</a></li> 
     <li><a href="#team-members">Team Members</a></li>   
     <li><a href="#technologies">Technologies</a></li>
     <li><a href="#features">Features</a></li>

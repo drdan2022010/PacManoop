@@ -11,16 +11,13 @@
       <a href="#introduction">Introduction</a>
       <ul>
         <li><a href="#team-members">Team Members</a></li>
-	<li><a href="#installation">Installation</a></li>
 	<li><a href="#task-allocation">Task Allocation</a></li>      
       </ul>
     </li>
     <li><a href="#technologies">Technologies</a></li>
-    <li><a href="#uml-class-diagram">UML Class Diagram</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#challenges">Challenges</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#Experience">Experience</a></li>
     <li><a href="#references">References</a></li>
   </ol>
 </details>

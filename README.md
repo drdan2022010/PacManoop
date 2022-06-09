@@ -56,21 +56,20 @@ Players will move the pacman to eat all dot.
 
 - Character: The pacman is controlled by the arrow key combination, when pacman eat super power dot, pacman can eat the ghost in a limit time
 
-<br />
+
 
 -  Ghost: Ghost try to eat the pacman the direction of ghost is random
 
-<br />
 
 - Wall : limit the movement of Pacman and Ghost
 
-<br />
+
 
 <!-- FEATURES -->
 ## Features
 - Completed: New map, Whack a mole (mini game), stop, restar.
 - Incompleted: Boss, Shop which can change the custom of pacman.
-  <br />
+
 
 <!-- CHALLENGES -->
 ## Challenges
@@ -90,7 +89,6 @@ When my team started making this game, we did not how to begin from. During the 
 Thanks to this project, my team was able to learn how to use Github (because my team has no experience using Github).
 </div>
 
-<br />
 
 
 ## References
@@ -98,6 +96,5 @@ Thanks to this project, my team was able to learn how to use Github (because my 
 2. https://github.com/manyimy/Whack-a-mole
 
 
-<br />
 
 

@@ -10,17 +10,13 @@
     <li>
       <a href="#introduction">Introduction</a>
       <ul>
-        <li><a href="#team-members">Team Members</a></li>
-	<li><a href="#installation">Installation</a></li>
-	<li><a href="#task-allocation">Task Allocation</a></li>      
+        <li><a href="#team-members">Team Members</a></li>   
       </ul>
     </li>
     <li><a href="#technologies">Technologies</a></li>
-    <li><a href="#uml-class-diagram">UML Class Diagram</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#challenges">Challenges</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#Experience">Experience</a></li>
     <li><a href="#references">References</a></li>
   </ol>
 </details>
@@ -30,7 +26,7 @@
 ## Introduction
 
 <div style="text-align:justify">
-This is the Team Five Pacman oop final project, Sơ lược về game: Pacman is one of the most popular games in the world, also we have a mini-game project called whack-a-mole that can help you to relax.
+This is the Team Five Pacman oop final project. Pacman is one of the most popular games in the world. Also we have a mini-game project called whack-a-mole that can help you to relax.
 </div>
 
 ### Team Members
@@ -49,7 +45,7 @@ This is the Team Five Pacman oop final project, Sơ lược về game: Pacman is
 
 - Language: [JAVA](https://www.java.com/en/)
 - Framework: [IntelliJ](https://www.jetbrains.com/idea/)
-- Library: [JavaSwing](https://en.wikipedia.org/wiki/Swing_(Java))
+- Library: [JavaSwing](https://en.wikipedia.org/wiki/Swing_(Java)) and [JavaAWS](https://en.wikipedia.org/wiki/Abstract_Window_Toolkit)
 
 ### How to play:
 <div style="text-align:justify">
@@ -60,21 +56,20 @@ Players will move the pacman to eat all dot.
 
 - Character: The pacman is controlled by the arrow key combination, when pacman eat super power dot, pacman can eat the ghost in a limit time
 
-<br />
+
 
 -  Ghost: Ghost try to eat the pacman the direction of ghost is random
 
-<br />
 
 - Wall : limit the movement of Pacman and Ghost
 
-<br />
+
 
 <!-- FEATURES -->
 ## Features
 - Completed: New map, Whack a mole (mini game), stop, restar.
 - Incompleted: Boss, Shop which can change the custom of pacman.
-  <br />
+
 
 <!-- CHALLENGES -->
 ## Challenges
@@ -94,7 +89,6 @@ When my team started making this game, we did not how to begin from. During the 
 Thanks to this project, my team was able to learn how to use Github (because my team has no experience using Github).
 </div>
 
-<br />
 
 
 ## References
@@ -102,6 +96,5 @@ Thanks to this project, my team was able to learn how to use Github (because my 
 2. https://github.com/manyimy/Whack-a-mole
 
 
-<br />
 
 

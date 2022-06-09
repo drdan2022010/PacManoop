@@ -1,25 +1,26 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXX
-X___O________X________O___X
-X_XXXX_XXXXX_X_XXXXX_XXXX_X
-X_XXXX_XXXXX_X_XXXXX_XXXX_X
-X_XXXX_XXXXX_X_XXXXX_XXXX_X
-XP________________________X
-X_XXXX_XX_XXXXXXX_XX_XXXX_X
-X_XXXX_XX_XXXXXXX_XX_XXXX_X
-X______XX_________XX______X
-XXXXX__XX_===_===_XX__XXXXX
-====X     XYYYYYX     X====
-====X     X===2=X     X====
-====X     X2=B==X     X====
-XXXXX     XXYYYXX     XXXXX
-X====_________________====X    
-XXXXX_X    XXXX     X_XXXXX
-====X_X_=__XXXX__=__X_X====
-XXXXX_X3___XXXX____3X_XXXXX
-X_________________________X
-X___XXXX           XXXX___X
-X=====_X   XXX     X_=====X
-X====1_X    X      X_=====X
-X=====_X  O X   O  X_=====X
-X_________________________X
+X========X_______X========X
+XP___O___XXX___XXX___O____X
+X___________3_____________X
+X_=X===================X=_X
+X_=X_____1______O______X=_X
+X_=X_____XXXXXXXXX_____X=_X
+X________X=======X_____==_X
+X________X=======X___=_==_X
+XXX___X__X===XXXXX___X_=XXX
+XXX______X===X====_____=XXX
+X==X__X__X===X====___X_X==X
+X==X_____X===XXXXX_____X==X
+XXX___X__X=======X___X_=XXX
+X=X______X=======X______X=X
+XXX___X__XXXXX===X___X__XXX
+X==___X__====X===X___X__==X
+X==___X__====X===X___X__==X
+X==___X__XXXXX===X___X__==X
+XXX______X=======X______XXX
+X==___1__XXXXXXXXX____2_==X
+XXX_____________________XXX
+X=X____XX__________XX___X=X
+XXX___O__XXX___XXX__O___XXX
+X========X_______X========X
 XXXXXXXXXXXXXXXXXXXXXXXXXXX

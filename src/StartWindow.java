@@ -37,7 +37,7 @@ public class StartWindow extends JFrame {
         buttonsC.setLayout(new BoxLayout(buttonsC,BoxLayout.Y_AXIS));
         FansyButton startButton = new FansyButton("Start Game");
         FansyButton customButton = new FansyButton("Edit game");
-        FansyButton mini = new FansyButton("Puzzle");
+        FansyButton mini = new FansyButton("Whack a mole");
         FansyButton exit = new FansyButton("Exit");
 
         startButton.setAlignmentX(Component.CENTER_ALIGNMENT);
@@ -49,8 +49,9 @@ public class StartWindow extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                     PacWindow pw = new PacWindow();
-                    checkmap.gain = 1;
+
                     dispose();
+                    checkmap.gain = 1;
             }
         });
 
@@ -58,6 +59,7 @@ public class StartWindow extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                 MapEditor a = new MapEditor();
+                checkmap.gain = 0;
                 dispose();
             }
         });
@@ -65,7 +67,7 @@ public class StartWindow extends JFrame {
         mini.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                new Puzzle();
+                new Whack();
                 dispose();
             }
         });

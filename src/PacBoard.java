@@ -213,7 +213,11 @@ public class PacBoard extends JPanel{
             if (foods.size() == 0) {
                 siren.stop();
                 pac6.stop();
-                SoundPlayer.play("pacman_intermission.wav");
+                if(checkmap.gain == 0) {
+                    SoundPlayer.play("pacman_intermission.wav");
+                }else{
+                    SoundPlayer.changeMap("changeMap.wav");
+                }
                 isWin = true;
                 pacman.moveTimer.stop();
                 scoreboard.setText("    Press R to try again !");

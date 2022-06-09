@@ -32,6 +32,17 @@ public class SoundPlayer {
             System.err.println(e.getMessage());
         }
     }
+    public static void changeMap(final String name) {
+        try {
+            Clip clip = AudioSystem.getClip();
+            AudioInputStream inputStream = AudioSystem.getAudioInputStream(
+                    Main.class.getResourceAsStream("resources/sounds/" + name));
+            clip.open(inputStream);
+            clip.start();
+        } catch (Exception e) {
+            System.err.println(e.getMessage());
+        }
+    }
 
     public static void startSiren(){
         try {

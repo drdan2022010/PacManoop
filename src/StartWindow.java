@@ -8,14 +8,14 @@ import java.io.IOException;
 public class StartWindow extends JFrame {
 
     public StartWindow(){
-        setSize(600,500);
+        setSize(600,400);
         getContentPane().setBackground(Color.black);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
         ImageIcon logo = new ImageIcon();
         try {
-            logo = new ImageIcon(ImageIO.read(this.getClass().getResource("/resources/images/pacman_logo.png")));
+            logo = new ImageIcon(ImageIO.read(this.getClass().getResource("/resources/images/pacman_logo1.png")));
         } catch (IOException e) {
             e.printStackTrace();
         }

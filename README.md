@@ -33,7 +33,7 @@ This is the Team Five Pacman oop final project. Pacman is one of the most popula
 
 | Order |                   Name                   |     ID      |              Task              | Contribution |
 | :---: |:----------------------------------------:|:-----------:|:------------------------------:|:------------:|
-|   1   |              Trịnh Đức Bảo               | ITITIU20134 | Readme, Pacman, Github manager |     20%      |
+|   1   |           Trịnh Đức Bảo (leader)         | ITITIU20134 | Readme, Pacman, Github manager |     20%      |
 |   2   |               Phạm Minh Vũ               | ITITIU20354 | Control and Character manager  |     20%      |
 |   3   |             Trần Thị Ngọc Tú             | ITITIU20338 | Mini game manager, powerpoint  |     20%      |
 |   4   |           Nguyễn Quang Trường            | ITITIU20334 |          Map manager           |     20%      |

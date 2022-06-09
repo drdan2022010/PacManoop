@@ -10,8 +10,7 @@
     <li>
       <a href="#introduction">Introduction</a>
       <ul>
-        <li><a href="#team-members">Team Members</a></li>
-	<li><a href="#task-allocation">Task Allocation</a></li>      
+        <li><a href="#team-members">Team Members</a></li>   
       </ul>
     </li>
     <li><a href="#technologies">Technologies</a></li>

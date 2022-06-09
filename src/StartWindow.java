@@ -65,7 +65,7 @@ public class StartWindow extends JFrame {
         mini.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                new Puzzle();
+                new Whack();
                 dispose();
             }
         });

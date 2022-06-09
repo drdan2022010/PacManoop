@@ -85,7 +85,8 @@ When my team started making this game, we did not how to begin from. During the 
 Thanks to this project, my team was able to learn how to use Github (because my team has no experience using Github).
 </div>
 
-
+## UML
+<a href="https://github.com/drdan2022010/PacManoop/blob/main/Untitled%20Diagram.drawio%20(3).png" target="_blank"><img src="https://github.com/drdan2022010/PacManoop/blob/main/Untitled%20Diagram.drawio%20(3).png" alt="UML" /></a>
 
 ## References
 1. https://github.com/arminkz/Pacman

@@ -67,7 +67,7 @@ Players will move the pacman to eat all dot.
 
 <!-- FEATURES -->
 ## Features
-- Completed: New map, Whack a mole (mini game), stop, restar.
+- Completed: New map, Whack a mole (mini game), stop, restart.
 - Incompleted: Boss, Shop which can change the custom of pacman.
 
 

@@ -76,8 +76,8 @@ Players will move the pacman to eat all dot.
 
 - Team work
 - Don't know how to start the project
-- Change the map without error
-- Start menu
+- Switch map
+- Resource
 - Create another map (map 2)
 - Export to Jar file
 - Working environment (Github)

@@ -6,9 +6,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.io.IOException;
 
-/**
- * Created by Armin on 4/18/2016.
- */
+
 public class FansyButton extends JLabel implements MouseListener {
 
     ActionListener myAL;

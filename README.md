@@ -3,20 +3,6 @@
 <h4 align="center">Game: Pacman</h4>
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#introduction">Introduction</a></li> 
-    <li><a href="#team-members">Team Members</a></li>   
-    <li><a href="#technologies">Technologies</a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#challenges">Challenges</a></li>
-    <li><a href="#Experience">Experience</a></li>
-    <li><a href="#references">References</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 
 ## Introduction

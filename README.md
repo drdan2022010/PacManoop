@@ -88,6 +88,8 @@ Thanks to this project, my team was able to learn how to use Github (because my 
 ## UML
 <a href="https://github.com/drdan2022010/PacManoop/blob/main/Untitled%20Diagram.drawio%20(3).png" target="_blank"><img src="https://github.com/drdan2022010/PacManoop/blob/main/Untitled%20Diagram.drawio%20(3).png" alt="UML" /></a>
 
+  <a href="https://github.com/drdan2022010/PacManoop/blob/main/uml.png" target="_blank"><img src="https://github.com/drdan2022010/PacManoop/blob/main/uml.png" alt="UML" /></a>
+
 ## References
 1. https://github.com/arminkz/Pacman
 2. https://github.com/manyimy/Whack-a-mole

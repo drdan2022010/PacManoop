@@ -34,9 +34,9 @@ This is the Team Five Pacman oop final project. Pacman is one of the most popula
 
 Players will move the pacman to eat all dot.
 
-### Game logic :
+### Object  :
 
-- Character: The pacman is controlled by the arrow key combination, when pacman eat super power dot, pacman can eat the ghost in a limit time
+- Pacman: The pacman is controlled by the arrow key combination, when pacman eat super power dot, pacman can eat the ghost in a limit time
 
 
 
